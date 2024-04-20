@@ -1,0 +1,13 @@
+{
+  "name": "@repo/store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "exports": {
+    "./hooks/*": "./src/hooks/*.ts",
+    "./atoms/*": "./src/atoms/*.ts"
+  },
+  "dependencies": {
+    "recoil": "^0.7.7"
+  }
+}
