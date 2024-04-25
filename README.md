@@ -30,6 +30,5 @@
   - the go to http://localhost:3000 to test the app.
 
 - Without docker
-
- - get a postgres connection string from avian.tech or any db provider.
- - follow the same steps as with docker.
+  - get a postgres connection string from avian.tech or any db provider.
+  - follow the same steps as with docker.
